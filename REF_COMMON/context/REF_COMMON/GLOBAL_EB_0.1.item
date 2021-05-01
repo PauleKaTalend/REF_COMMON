@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:version="2.0">
+  <talendfile:ContextType confirmationNeeded="false" name="Default" xmi:id="_YWFPwKoTEeuyysC_1odaNA">
+    <contextParameter comment="" name="CODE" prompt="CODE?" promptNeeded="false" type="id_String" value="EB" xmi:id="_YWFPwaoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="BRAND" prompt="BRAND?" promptNeeded="false" type="id_String" value="ERI_BOMPARD" xmi:id="_YWFPwqoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="WORKSPACE" prompt="WORKSPACE?" promptNeeded="false" type="id_String" value="D:/WORKSPACE_TALEND/ERIC_BOMPARD/" xmi:id="_YWFPw6oTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="FTP_HOST" prompt="FTP_HOST?" promptNeeded="false" type="id_String" value="ftppauleka.francecentral.cloudapp.azure.com" xmi:id="_YWFPxKoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="FTP_LOGIN" prompt="FTP_LOGIN?" promptNeeded="false" type="id_String" value="EBCATEST" xmi:id="_YWFPxaoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="FTP_PASSWD" prompt="FTP_PASSWD?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:idY+GvxOehqyTDlBLAkFxs6W8Qccjn1Y6eS0SJD4ttmeFe3A" xmi:id="_YWFPxqoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="FTP_PORT" prompt="FTP_PORT?" promptNeeded="false" type="id_Integer" value="22" xmi:id="_YWFPx6oTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="SUFFIX_FILE" prompt="SUFFIX_FILE?" promptNeeded="false" type="id_String" value="EB_" xmi:id="_YWFPyKoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="IMG_PRE_FIX" prompt="IMG_PRE_FIX?" promptNeeded="false" type="id_String" value="eric-bompard_" xmi:id="_YWFPyaoTEeuyysC_1odaNA"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="DEV" xmi:id="_YWFPyqoTEeuyysC_1odaNA">
+    <contextParameter comment="" name="CODE" prompt="CODE?" promptNeeded="false" type="id_String" value="EB" xmi:id="_YWFPy6oTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="BRAND" prompt="BRAND?" promptNeeded="false" type="id_String" value="ERI_BOMPARD" xmi:id="_YWFPzKoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="WORKSPACE" prompt="WORKSPACE?" promptNeeded="false" type="id_String" value="C:/WORKSPACE_TALEND/ERIC_BOMPARD/" xmi:id="_YWFPzaoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="FTP_HOST" prompt="FTP_HOST?" promptNeeded="false" type="id_String" value="ftppauleka.francecentral.cloudapp.azure.com" xmi:id="_YWFPzqoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="FTP_LOGIN" prompt="FTP_LOGIN?" promptNeeded="false" type="id_String" value="EBCATEST" xmi:id="_YWFPz6oTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="FTP_PASSWD" prompt="FTP_PASSWD?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:6uwpPUIv0m4zGfV30kVspqfX2MGgbwAh7qp2dBYVxcewiNLa" xmi:id="_YWFP0KoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="FTP_PORT" prompt="FTP_PORT?" promptNeeded="false" type="id_Integer" value="22" xmi:id="_YWFP0aoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="SUFFIX_FILE" prompt="SUFFIX_FILE?" promptNeeded="false" type="id_String" value="EB_" xmi:id="_YWFP0qoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="IMG_PRE_FIX" prompt="IMG_PRE_FIX?" promptNeeded="false" type="id_String" value="eric-bompard_" xmi:id="_YWFP06oTEeuyysC_1odaNA"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="PROD" xmi:id="_YWFP1KoTEeuyysC_1odaNA">
+    <contextParameter comment="" name="CODE" prompt="CODE?" promptNeeded="false" type="id_String" value="EB" xmi:id="_YWFP1aoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="BRAND" prompt="BRAND?" promptNeeded="false" type="id_String" value="ERI_BOMPARD" xmi:id="_YWFP1qoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="WORKSPACE" prompt="WORKSPACE?" promptNeeded="false" type="id_String" value="C:/WORKSPACE_TALEND/ERIC_BOMPARD/" xmi:id="_YWFP16oTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="FTP_HOST" prompt="FTP_HOST?" promptNeeded="false" type="id_String" value="ftppauleka.francecentral.cloudapp.azure.com" xmi:id="_YWFP2KoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="FTP_LOGIN" prompt="FTP_LOGIN?" promptNeeded="false" type="id_String" value="EBCATEST" xmi:id="_YWFP2aoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="FTP_PASSWD" prompt="FTP_PASSWD?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:3fJgHQjchZ0wTNjOg0S8HOdoI1+mBDJyGehBSi/68G+FUIXu" xmi:id="_YWFP2qoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="FTP_PORT" prompt="FTP_PORT?" promptNeeded="false" type="id_Integer" value="22" xmi:id="_YWFP26oTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="SUFFIX_FILE" prompt="SUFFIX_FILE?" promptNeeded="false" type="id_String" value="EB_" xmi:id="_YWFP3KoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="IMG_PRE_FIX" prompt="IMG_PRE_FIX?" promptNeeded="false" type="id_String" value="eric-bompard_" xmi:id="_YWFP3aoTEeuyysC_1odaNA"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="RECETTE" xmi:id="_YWFP3qoTEeuyysC_1odaNA">
+    <contextParameter comment="" name="CODE" prompt="CODE?" promptNeeded="false" type="id_String" value="EB" xmi:id="_YWFP36oTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="BRAND" prompt="BRAND?" promptNeeded="false" type="id_String" value="ERI_BOMPARD" xmi:id="_YWFP4KoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="WORKSPACE" prompt="WORKSPACE?" promptNeeded="false" type="id_String" value="D:/WORKSPACE_TALEND/ERIC_BOMPARD/" xmi:id="_YWFP4aoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="FTP_HOST" prompt="FTP_HOST?" promptNeeded="false" type="id_String" value="ftppauleka.francecentral.cloudapp.azure.com" xmi:id="_YWFP4qoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="FTP_LOGIN" prompt="FTP_LOGIN?" promptNeeded="false" type="id_String" value="EBCATEST" xmi:id="_YWFP46oTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="FTP_PASSWD" prompt="FTP_PASSWD?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:T1DQacKUKYti9R8rKxxY/V3cJ/k6VfI5pMP90BDOeYvaCYs3" xmi:id="_YWFP5KoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="FTP_PORT" prompt="FTP_PORT?" promptNeeded="false" type="id_Integer" value="22" xmi:id="_YWFP5aoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="SUFFIX_FILE" prompt="SUFFIX_FILE?" promptNeeded="false" type="id_String" value="EB_" xmi:id="_YWFP5qoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="IMG_PRE_FIX" prompt="IMG_PRE_FIX?" promptNeeded="false" type="id_String" value="eric-bompard_" xmi:id="_YWFP56oTEeuyysC_1odaNA"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="PRODUCTION" xmi:id="_YWFP6KoTEeuyysC_1odaNA">
+    <contextParameter comment="" name="CODE" prompt="CODE?" promptNeeded="false" type="id_String" value="EB" xmi:id="_YWFP6aoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="BRAND" prompt="BRAND?" promptNeeded="false" type="id_String" value="ERI_BOMPARD" xmi:id="_YWFP6qoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="WORKSPACE" prompt="WORKSPACE?" promptNeeded="false" type="id_String" value="F:/WORKSPACE_TALEND/ERIC_BOMPARD/" xmi:id="_YWFP66oTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="FTP_HOST" prompt="FTP_HOST?" promptNeeded="false" type="id_String" value="ftppauleka.francecentral.cloudapp.azure.com" xmi:id="_YWFP7KoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="FTP_LOGIN" prompt="FTP_LOGIN?" promptNeeded="false" type="id_String" value="EBCAPROD" xmi:id="_YWFP7aoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="FTP_PASSWD" prompt="FTP_PASSWD?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:/P+v+T3+orvA3ZVv7W58zj9+HiWkrwlXQHox8tKno9tqo+13" xmi:id="_YWFP7qoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="FTP_PORT" prompt="FTP_PORT?" promptNeeded="false" type="id_Integer" value="22" xmi:id="_YWFP76oTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="SUFFIX_FILE" prompt="SUFFIX_FILE?" promptNeeded="false" type="id_String" value="EB_" xmi:id="_YWFP8KoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="IMG_PRE_FIX" prompt="IMG_PRE_FIX?" promptNeeded="false" type="id_String" value="eric-bompard_" xmi:id="_YWFP8aoTEeuyysC_1odaNA"/>
+  </talendfile:ContextType>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_0a7b169c-9c99-430b-a416-c3cf9b408c4c"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>97z6bdVpn5NCJz1zcImQIkSVGowTEr5ZyHdDmCHqIQvVPvxtOZKOgxUhnGnp764SPnkzC/scKPo1
+g68G0MBQKA==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_6f1aa32d-f9a5-4e8b-a8fd-505932c464b8"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>XcXFmaj4dZVLAneFq7Fv+8BFC4I1BQrt1rEkFqZX8I7jfZG1qcoJ2j5lWLez+BYk2So/z4QhjYXn
+UD76spw7rA==</DigestValue></Reference></SignedInfo><SignatureValue>jrvabPa/4JUQttCQBhWMoewqQZRyH+VpEnQl/e1iT5NnDNtOJb8VKe0JJ5jUR0mZUGiFceAdN0wU
+q2NYmAg/xYWiIg5+6Wf2m8zFiifDgRh9DFLg7i40vTVnda1GZZg47lofy4GhTRo1aAZiVwuLc9T7
+PnLYzi95coLk3oFuomwEn8yen1e19YX+zP5enTOyu058Jy94aGuvZK80o3L1aLThwCj82wK3k9q0
+5sfYon8piQcfOXWXhsfXD0yGmtcXoO+hAUgrHCVhVKOAnpjczg4LcUAFLOPclV0efX1uBFkJT2az
+oy6lsonRHtizNpxf/mr38uo3RLyPqK/agdD0Kw==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_6f1aa32d-f9a5-4e8b-a8fd-505932c464b8" Target="#_0a7b169c-9c99-430b-a416-c3cf9b408c4c"><Timestamp>2021-05-01 00:22:58</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>

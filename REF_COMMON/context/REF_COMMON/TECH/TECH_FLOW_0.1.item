@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:version="2.0">
+  <talendfile:ContextType confirmationNeeded="false" name="Default" xmi:id="_YhaWAKoTEeuyysC_1odaNA">
+    <contextParameter comment="" name="BRAND" prompt="BRAND?" promptNeeded="false" type="id_String" value="" xmi:id="_YhaWAaoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="FLOW" prompt="FLOW?" promptNeeded="false" type="id_String" value="" xmi:id="_YhaWAqoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="KEY" prompt="KEY?" promptNeeded="false" type="id_String" value="" xmi:id="_YhaWA6oTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="MESSAGE" prompt="MESSAGE?" promptNeeded="false" type="id_String" value="" xmi:id="_YhaWBKoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="SEND_MAIL" prompt="SEND_MAIL?" promptNeeded="false" type="id_Boolean" value="false" xmi:id="_YhaWBaoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="MAIL_FROM" prompt="MAIL_FROM?" promptNeeded="false" type="id_String" value="xavier.warth@gmail.com" xmi:id="_YhaWBqoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="MAIL_TO" prompt="MAIL_TO?" promptNeeded="false" type="id_String" value="xavier.warth@gmail.com" xmi:id="_YhaWB6oTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="MAIL_SUBJET" prompt="MAIL_SUBJET?" promptNeeded="false" type="id_String" value="" xmi:id="_YhaWCKoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="MAIL_FILE" prompt="MAIL_FILE?" promptNeeded="false" type="id_String" value="" xmi:id="_YhaWCaoTEeuyysC_1odaNA"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="DEV" xmi:id="_YhaWCqoTEeuyysC_1odaNA">
+    <contextParameter comment="" name="BRAND" prompt="BRAND?" promptNeeded="false" type="id_String" value="" xmi:id="_YhaWC6oTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="FLOW" prompt="FLOW?" promptNeeded="false" type="id_String" value="" xmi:id="_YhaWDKoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="KEY" prompt="KEY?" promptNeeded="false" type="id_String" value="" xmi:id="_YhaWDaoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="MESSAGE" prompt="MESSAGE?" promptNeeded="false" type="id_String" value="" xmi:id="_YhaWDqoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="SEND_MAIL" prompt="SEND_MAIL?" promptNeeded="false" type="id_Boolean" value="false" xmi:id="_YhaWD6oTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="MAIL_FROM" prompt="MAIL_FROM?" promptNeeded="false" type="id_String" value="xavier.warth@gmail.com" xmi:id="_YhaWEKoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="MAIL_TO" prompt="MAIL_TO?" promptNeeded="false" type="id_String" value="xavier.warth@gmail.com" xmi:id="_YhaWEaoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="MAIL_SUBJET" prompt="MAIL_SUBJET?" promptNeeded="false" type="id_String" value="" xmi:id="_YhaWEqoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="MAIL_FILE" prompt="MAIL_FILE?" promptNeeded="false" type="id_String" value="" xmi:id="_YhaWE6oTEeuyysC_1odaNA"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="PROD" xmi:id="_YhaWFKoTEeuyysC_1odaNA">
+    <contextParameter comment="" name="BRAND" prompt="BRAND?" promptNeeded="false" type="id_String" value="" xmi:id="_YhaWFaoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="FLOW" prompt="FLOW?" promptNeeded="false" type="id_String" value="" xmi:id="_YhaWFqoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="KEY" prompt="KEY?" promptNeeded="false" type="id_String" value="" xmi:id="_YhaWF6oTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="MESSAGE" prompt="MESSAGE?" promptNeeded="false" type="id_String" value="" xmi:id="_YhaWGKoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="SEND_MAIL" prompt="SEND_MAIL?" promptNeeded="false" type="id_Boolean" value="false" xmi:id="_YhaWGaoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="MAIL_FROM" prompt="MAIL_FROM?" promptNeeded="false" type="id_String" value="xavier.warth@gmail.com" xmi:id="_YhaWGqoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="MAIL_TO" prompt="MAIL_TO?" promptNeeded="false" type="id_String" value="xavier.warth@gmail.com" xmi:id="_YhaWG6oTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="MAIL_SUBJET" prompt="MAIL_SUBJET?" promptNeeded="false" type="id_String" value="" xmi:id="_YhaWHKoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="MAIL_FILE" prompt="MAIL_FILE?" promptNeeded="false" type="id_String" value="" xmi:id="_YhaWHaoTEeuyysC_1odaNA"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="PRODUCTION" xmi:id="_YhaWHqoTEeuyysC_1odaNA">
+    <contextParameter comment="" name="BRAND" prompt="BRAND?" promptNeeded="false" type="id_String" value="" xmi:id="_YhaWH6oTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="FLOW" prompt="FLOW?" promptNeeded="false" type="id_String" value="" xmi:id="_YhaWIKoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="KEY" prompt="KEY?" promptNeeded="false" type="id_String" value="" xmi:id="_YhaWIaoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="MESSAGE" prompt="MESSAGE?" promptNeeded="false" type="id_String" value="" xmi:id="_YhaWIqoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="SEND_MAIL" prompt="SEND_MAIL?" promptNeeded="false" type="id_Boolean" value="true" xmi:id="_YhaWI6oTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="MAIL_FROM" prompt="MAIL_FROM?" promptNeeded="false" type="id_String" value="xavier.warth@gmail.com" xmi:id="_YhaWJKoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="MAIL_TO" prompt="MAIL_TO?" promptNeeded="false" type="id_String" value="xavier.warth@gmail.com" xmi:id="_YhaWJaoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="MAIL_SUBJET" prompt="MAIL_SUBJET?" promptNeeded="false" type="id_String" value="" xmi:id="_YhaWJqoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="MAIL_FILE" prompt="MAIL_FILE?" promptNeeded="false" type="id_String" value="" xmi:id="_YhaWJ6oTEeuyysC_1odaNA"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="RECETTE" xmi:id="_YhaWKKoTEeuyysC_1odaNA">
+    <contextParameter comment="" name="BRAND" prompt="BRAND?" promptNeeded="false" type="id_String" value="" xmi:id="_YhaWKaoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="FLOW" prompt="FLOW?" promptNeeded="false" type="id_String" value="" xmi:id="_YhaWKqoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="KEY" prompt="KEY?" promptNeeded="false" type="id_String" value="" xmi:id="_YhaWK6oTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="MESSAGE" prompt="MESSAGE?" promptNeeded="false" type="id_String" value="" xmi:id="_YhaWLKoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="SEND_MAIL" prompt="SEND_MAIL?" promptNeeded="false" type="id_Boolean" value="true" xmi:id="_YhaWLaoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="MAIL_FROM" prompt="MAIL_FROM?" promptNeeded="false" type="id_String" value="xavier.warth@gmail.com" xmi:id="_YhaWLqoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="MAIL_TO" prompt="MAIL_TO?" promptNeeded="false" type="id_String" value="xavier.warth@gmail.com" xmi:id="_YhaWL6oTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="MAIL_SUBJET" prompt="MAIL_SUBJET?" promptNeeded="false" type="id_String" value="" xmi:id="_YhaWMKoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="MAIL_FILE" prompt="MAIL_FILE?" promptNeeded="false" type="id_String" value="" xmi:id="_YhaWMaoTEeuyysC_1odaNA"/>
+  </talendfile:ContextType>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_aa3c4c2a-f7d2-4a53-a1ea-3164b23baf0b"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>dxvEFp6R3VEEX+pga+g+VuxR5IFjP2vjF9M8R5IpOnLIuJ6NbMU5Iw6r+u5yHUon5R+EbLOZunlS
+6oTkVRXxKw==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_77e7e24e-1717-4968-a3dc-99b459f4e29d"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>Pl3daAr0JlbAH4yEQWf8w9WlFJusXRCHSII6UGjlRwwEyZSxPSru9s4oiJW1sw1wLIOgPmhtnXx+
+KmkvVu7TfQ==</DigestValue></Reference></SignedInfo><SignatureValue>FT2L85D07zr10QB0KGZQVy0CB00kdNo+TX2Zcc763/1alGZGPUtiR54z7UBxNPDzX7uB2rTkfpjS
+v9fI8FXCXGzFo93nnwJddSlOYiG5t66bAUOfndlm298or5+a2xedM7a2ZubY7B8dH+s76sb2QdAo
+ubzOlbF49KWYvtDFK++uu2OB9JDsmc3ed3nwmasnCzsf46FIVDKZiGlgKkHtnpz2a1pq+imoZOKC
+pYcaiLT0T0jOK8DEsHGY6TkNlu9/jvkndvfGVhEReMFj5D3UGObddYJC8E3nM6X61VI4kgw+fyJD
+GRQwG94SlUTzw38G7919aNaGossOHuxg0B3h2g==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_77e7e24e-1717-4968-a3dc-99b459f4e29d" Target="#_aa3c4c2a-f7d2-4a53-a1ea-3164b23baf0b"><Timestamp>2021-05-01 00:22:59</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmi:version="2.0">
+  <TalendMetadata:DelimitedFileConnection Encoding="US-ASCII" FieldSeparatorValue="&quot;;&quot;" FilePath="/Users/sbidelhadjela/Documents/Projets/CMP/Talend/files/WCLC1_modele" FirstLineCaption="true" HeaderValue="1" RowSeparatorValue="&quot;\n&quot;" Server="Localhost 127.0.0.1" UseHeader="true" dataPackage="_xQCmoUcvEembj_QhSZKqGA" name="ERP_PK_ORDER_CUSTOMER" xmi:id="_xQCmoEcvEembj_QhSZKqGA"/>
+  <orgomg.cwm.resource.record:RecordFile dataManager="_xQCmoEcvEembj_QhSZKqGA" name="default" xmi:id="_xQCmoUcvEembj_QhSZKqGA">
+    <ownedElement id="_OnsSkEcvEembj_QhSZKqGA" label="metadata" xmi:id="_xQCmokcvEembj_QhSZKqGA" xsi:type="TalendMetadata:MetadataTable">
+      <feature label="CEGID" length="255" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_xQCmo0cvEembj_QhSZKqGA" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="T_TIERS" length="255" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_xQDNsEcvEembj_QhSZKqGA" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="T_JURIDIQUE" length="255" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_xQDNsUcvEembj_QhSZKqGA" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="T_LIBELLE" length="255" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_xQDNskcvEembj_QhSZKqGA" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="T_PRENOM" length="255" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_xQDNs0cvEembj_QhSZKqGA" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="T_ADRESSE1" length="255" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_xQDNtEcvEembj_QhSZKqGA" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="T_ADRESSE2" length="255" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_xQDNtUcvEembj_QhSZKqGA" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="T_ADRESSE3" length="255" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_xQDNtkcvEembj_QhSZKqGA" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="T_CODEPOSTAL" length="255" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_xQDNt0cvEembj_QhSZKqGA" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="T_VILLE" length="255" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_xQDNuEcvEembj_QhSZKqGA" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="T_PAYS" length="255" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_xQDNuUcvEembj_QhSZKqGA" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="T_TELEX" length="255" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_xQDNukcvEembj_QhSZKqGA" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="T_TELEPHONE" length="255" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_xQDNu0cvEembj_QhSZKqGA" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="T_EMAIL" length="255" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_xQDNvEcvEembj_QhSZKqGA" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="T_DATECREATION" length="255" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_xQDNvUcvEembj_QhSZKqGA" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="T_EMAILING" length="255" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_xQDNvkcvEembj_QhSZKqGA" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="T_LANGUE" length="255" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_xQDNv0cvEembj_QhSZKqGA" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="T_TRANSPORTEUR" length="255" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_xQDNwEcvEembj_QhSZKqGA" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="T_ETABCREATION" length="255" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_xQDNwUcvEembj_QhSZKqGA" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="T_ETABLISSEMENT" length="255" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_xQDNwkcvEembj_QhSZKqGA" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="T_PARTICULIER" length="255" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_xQDNw0cvEembj_QhSZKqGA" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="T_NATUREAUXI" length="255" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_xQDNxEcvEembj_QhSZKqGA" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="___MAJPARTIELLE" length="255" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_xQDNxUcvEembj_QhSZKqGA" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="T_MODEREGLE" length="255" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_xQDNxkcvEembj_QhSZKqGA" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="T_EURODEFAUT" length="255" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_xQDNx0cvEembj_QhSZKqGA" xsi:type="TalendMetadata:MetadataColumn"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_12a8ab5d-2909-412f-9c16-3e98b81070ee"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>jFJA5uM8KXk69dmurc5ShCdZvAlI9SnXVP0ZcZEfGzlmHN8PoTIjrQOB7FzI9YGqvN2mz4umqceO
+UhMW8rKllg==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_7130ff5b-614c-4177-88ed-16d0a8ee1ee2"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>lH0PbyO8LtBFPTRfyqVm08a/eSymmlIC+4NOV3sSOYT7RGsRh/gyHLYLKVskztzOo7iJv//ZXcWA
+lRRNaSuoxQ==</DigestValue></Reference></SignedInfo><SignatureValue>RDIX5H2sEzin7HJHSkafqntiaKPobuTW2R9u1bNpPBea5ZLrufGpjoW4UQbEWzzNr61nX1hLRUNZ
+nXl5S/cfRYRjo8Uu7T1vip3NW/UF8At4Iy/hQNqmZpCXOAWKcGK2YyTjGreVp7IPVwJMca50QLr5
+x0FoiTmsLm/r+gPsIvNcra/hodiuGtGkC3ROVpUbqgZR9tKOyzX2EP7yXMKxuIsMlbG5mv9ZW9GQ
+YK+aMsRWn/49ki/24P/jWmqLUF9+9IXKhbwJ575ZeL1CZA7s2MVvdzYJr6dNqrwmlAfyClgwt1lS
+SXxzTTLLNoDT/cidBAKKBATEEG52V7+FWow/yw==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_7130ff5b-614c-4177-88ed-16d0a8ee1ee2" Target="#_12a8ab5d-2909-412f-9c16-3e98b81070ee"><Timestamp>2021-05-01 00:23:01</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>

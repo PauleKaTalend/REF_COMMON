@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:version="2.0">
+  <talendfile:ContextType confirmationNeeded="false" name="Default" xmi:id="_YUmCAKoTEeuyysC_1odaNA">
+    <contextParameter comment="INV_SFCC" name="FILE_SFCC_INVENTORY" prompt="FILE_SFCC_INVENTORY?" promptNeeded="false" type="id_String" value="INV_SFCC" xmi:id="_YUmCAaoTEeuyysC_1odaNA"/>
+    <contextParameter comment="PLI_SFCC" name="FILE_SFCC_PRICE" prompt="FILE_SFCC_PRICE?" promptNeeded="false" type="id_String" value="PLI_SFCC" xmi:id="_YUmCAqoTEeuyysC_1odaNA"/>
+    <contextParameter comment="ITM_SFCC" name="FILE_SFCC_CATALOG" prompt="FILE_SFCC_CATALOG?" promptNeeded="false" type="id_String" value="ITM_SFCC" xmi:id="_YUmCA6oTEeuyysC_1odaNA"/>
+    <contextParameter comment="CAT_SFCC" name="FILE_SFCC_CATEGORY" prompt="FILE_SFCC_CATEGORY?" promptNeeded="false" type="id_String" value="CAT_SFCC" xmi:id="_YUmCBKoTEeuyysC_1odaNA"/>
+    <contextParameter comment="CLI_SFCC" name="FILE_SFCC_CUSTOMER" prompt="FILE_SFCC_CUSTOMER?" promptNeeded="false" type="id_String" value="CLI_SFCC" xmi:id="_YUmCBaoTEeuyysC_1odaNA"/>
+    <contextParameter comment="ORD" name="FILE_SFCC_ORDER" prompt="FILE_SFCC_ORDER?" promptNeeded="false" type="id_String" value="ORD" xmi:id="_YUmCBqoTEeuyysC_1odaNA"/>
+    <contextParameter comment="CLO_SFCC" name="FILE_SFCC_CUSTOMER_NL" prompt="FILE_SFCC_CUSTOMER_NL?" promptNeeded="false" type="id_String" value="" xmi:id="_YUmCB6oTEeuyysC_1odaNA"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="DEV" xmi:id="_YUmCCKoTEeuyysC_1odaNA">
+    <contextParameter comment="INV_SFCC" name="FILE_SFCC_INVENTORY" prompt="FILE_SFCC_INVENTORY?" promptNeeded="false" type="id_String" value="INV_SFCC" xmi:id="_YUmCCaoTEeuyysC_1odaNA"/>
+    <contextParameter comment="PLI_SFCC" name="FILE_SFCC_PRICE" prompt="FILE_SFCC_PRICE?" promptNeeded="false" type="id_String" value="PLI_SFCC" xmi:id="_YUmCCqoTEeuyysC_1odaNA"/>
+    <contextParameter comment="ITM_SFCC" name="FILE_SFCC_CATALOG" prompt="FILE_SFCC_CATALOG?" promptNeeded="false" type="id_String" value="ITM_SFCC" xmi:id="_YUmCC6oTEeuyysC_1odaNA"/>
+    <contextParameter comment="CAT_SFCC" name="FILE_SFCC_CATEGORY" prompt="FILE_SFCC_CATEGORY?" promptNeeded="false" type="id_String" value="CAT_SFCC" xmi:id="_YUmCDKoTEeuyysC_1odaNA"/>
+    <contextParameter comment="CLI_SFCC" name="FILE_SFCC_CUSTOMER" prompt="FILE_SFCC_CUSTOMER?" promptNeeded="false" type="id_String" value="CLI_SFCC" xmi:id="_YUmCDaoTEeuyysC_1odaNA"/>
+    <contextParameter comment="ORD" name="FILE_SFCC_ORDER" prompt="FILE_SFCC_ORDER?" promptNeeded="false" type="id_String" value="ORD" xmi:id="_YUmCDqoTEeuyysC_1odaNA"/>
+    <contextParameter comment="CLO_SFCC" name="FILE_SFCC_CUSTOMER_NL" prompt="FILE_SFCC_CUSTOMER_NL?" promptNeeded="false" type="id_String" value="" xmi:id="_YUmCD6oTEeuyysC_1odaNA"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="PROD" xmi:id="_YUmCEKoTEeuyysC_1odaNA">
+    <contextParameter comment="INV_SFCC" name="FILE_SFCC_INVENTORY" prompt="FILE_SFCC_INVENTORY?" promptNeeded="false" type="id_String" value="INV_SFCC" xmi:id="_YUmCEaoTEeuyysC_1odaNA"/>
+    <contextParameter comment="PLI_SFCC" name="FILE_SFCC_PRICE" prompt="FILE_SFCC_PRICE?" promptNeeded="false" type="id_String" value="PLI_SFCC" xmi:id="_YUmCEqoTEeuyysC_1odaNA"/>
+    <contextParameter comment="ITM_SFCC" name="FILE_SFCC_CATALOG" prompt="FILE_SFCC_CATALOG?" promptNeeded="false" type="id_String" value="ITM_SFCC" xmi:id="_YUmCE6oTEeuyysC_1odaNA"/>
+    <contextParameter comment="CAT_SFCC" name="FILE_SFCC_CATEGORY" prompt="FILE_SFCC_CATEGORY?" promptNeeded="false" type="id_String" value="CAT_SFCC" xmi:id="_YUmCFKoTEeuyysC_1odaNA"/>
+    <contextParameter comment="CLI_SFCC" name="FILE_SFCC_CUSTOMER" prompt="FILE_SFCC_CUSTOMER?" promptNeeded="false" type="id_String" value="CLI_SFCC" xmi:id="_YUmCFaoTEeuyysC_1odaNA"/>
+    <contextParameter comment="ORD" name="FILE_SFCC_ORDER" prompt="FILE_SFCC_ORDER?" promptNeeded="false" type="id_String" value="ORD" xmi:id="_YUmCFqoTEeuyysC_1odaNA"/>
+    <contextParameter comment="CLO_SFCC" name="FILE_SFCC_CUSTOMER_NL" prompt="FILE_SFCC_CUSTOMER_NL?" promptNeeded="false" type="id_String" value="" xmi:id="_YUmCF6oTEeuyysC_1odaNA"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="PRODUCTION" xmi:id="_YUmCGKoTEeuyysC_1odaNA">
+    <contextParameter comment="INV_SFCC" name="FILE_SFCC_INVENTORY" prompt="FILE_SFCC_INVENTORY?" promptNeeded="false" type="id_String" value="INV_SFCC" xmi:id="_YUmCGaoTEeuyysC_1odaNA"/>
+    <contextParameter comment="PLI_SFCC" name="FILE_SFCC_PRICE" prompt="FILE_SFCC_PRICE?" promptNeeded="false" type="id_String" value="PLI_SFCC" xmi:id="_YUmCGqoTEeuyysC_1odaNA"/>
+    <contextParameter comment="ITM_SFCC" name="FILE_SFCC_CATALOG" prompt="FILE_SFCC_CATALOG?" promptNeeded="false" type="id_String" value="ITM_SFCC" xmi:id="_YUmCG6oTEeuyysC_1odaNA"/>
+    <contextParameter comment="CAT_SFCC" name="FILE_SFCC_CATEGORY" prompt="FILE_SFCC_CATEGORY?" promptNeeded="false" type="id_String" value="CAT_SFCC" xmi:id="_YUmCHKoTEeuyysC_1odaNA"/>
+    <contextParameter comment="CLI_SFCC" name="FILE_SFCC_CUSTOMER" prompt="FILE_SFCC_CUSTOMER?" promptNeeded="false" type="id_String" value="CLI_SFCC" xmi:id="_YUmCHaoTEeuyysC_1odaNA"/>
+    <contextParameter comment="ORD" name="FILE_SFCC_ORDER" prompt="FILE_SFCC_ORDER?" promptNeeded="false" type="id_String" value="ORD" xmi:id="_YUmCHqoTEeuyysC_1odaNA"/>
+    <contextParameter comment="CLO_SFCC" name="FILE_SFCC_CUSTOMER_NL" prompt="FILE_SFCC_CUSTOMER_NL?" promptNeeded="false" type="id_String" value="" xmi:id="_YUmCH6oTEeuyysC_1odaNA"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="RECETTE" xmi:id="_YUmCIKoTEeuyysC_1odaNA">
+    <contextParameter comment="INV_SFCC" name="FILE_SFCC_INVENTORY" prompt="FILE_SFCC_INVENTORY?" promptNeeded="false" type="id_String" value="INV_SFCC" xmi:id="_YUmCIaoTEeuyysC_1odaNA"/>
+    <contextParameter comment="PLI_SFCC" name="FILE_SFCC_PRICE" prompt="FILE_SFCC_PRICE?" promptNeeded="false" type="id_String" value="PLI_SFCC" xmi:id="_YUmCIqoTEeuyysC_1odaNA"/>
+    <contextParameter comment="ITM_SFCC" name="FILE_SFCC_CATALOG" prompt="FILE_SFCC_CATALOG?" promptNeeded="false" type="id_String" value="ITM_SFCC" xmi:id="_YUmCI6oTEeuyysC_1odaNA"/>
+    <contextParameter comment="CAT_SFCC" name="FILE_SFCC_CATEGORY" prompt="FILE_SFCC_CATEGORY?" promptNeeded="false" type="id_String" value="CAT_SFCC" xmi:id="_YUmCJKoTEeuyysC_1odaNA"/>
+    <contextParameter comment="CLI_SFCC" name="FILE_SFCC_CUSTOMER" prompt="FILE_SFCC_CUSTOMER?" promptNeeded="false" type="id_String" value="CLI_SFCC" xmi:id="_YUmCJaoTEeuyysC_1odaNA"/>
+    <contextParameter comment="ORD" name="FILE_SFCC_ORDER" prompt="FILE_SFCC_ORDER?" promptNeeded="false" type="id_String" value="ORD" xmi:id="_YUmCJqoTEeuyysC_1odaNA"/>
+    <contextParameter comment="CLO_SFCC" name="FILE_SFCC_CUSTOMER_NL" prompt="FILE_SFCC_CUSTOMER_NL?" promptNeeded="false" type="id_String" value="" xmi:id="_YUmCJ6oTEeuyysC_1odaNA"/>
+  </talendfile:ContextType>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_6c114f9d-5682-4015-9a4b-bec21bc6433c"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>cHSA30Rd9Y7KkD6xUz1QpAZXxLcmZYZXHTIOzCSlf4E5GN5WLDp9M4NDabCjlFB5CB/9gyjv+gRf
+mzuIeAhCwA==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_fa191b99-5b56-4fbd-98d8-75f4eb325215"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>bjDD+LsFnGrIYK7TIKGiTpfvMakHKWRCbVtKZF5nbVGtvXAxfLhv4VFaI0q8pCtGHl1/9v49mTlW
+AwxICzV/bw==</DigestValue></Reference></SignedInfo><SignatureValue>pfkyYcOYlnGIh8bUSG4iqirA7Mshilf0nYc/jYSmVkL/tcQtg4LTLT/4O0ZRxKAbPq6dSNulklgA
+7RPOLG6UPTfwNCs3XXkJZI/ORGb43AYJCelzLkYjRuxAiisOSvIdSzEaGAb3g+vID9qxvmswi0Kb
+/zVIaiX80fu5FU4D3a69bEcKxrjhLDSPqKWyeAjDlc5QZe916YbUy0RoF7R0Ah9L3BFcEYRhIGSU
+n9v5U5+eEl62X2jDXJ83gnRv+QgdCsOszc0MVywQK+ngGTgbJjxvAZh2RKu4jvrnL+QQ5K7tEFGw
+4O9gViKIoGOhEwTgj86iSP0UW9KtvYFzquN+Vg==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_fa191b99-5b56-4fbd-98d8-75f4eb325215" Target="#_6c114f9d-5682-4015-9a4b-bec21bc6433c"><Timestamp>2021-05-01 00:22:57</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>

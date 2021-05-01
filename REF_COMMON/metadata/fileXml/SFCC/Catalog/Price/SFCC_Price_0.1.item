@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmi:version="2.0">
+  <TalendMetadata:XmlFileConnection Encoding="UTF-8" XmlFilePath="/Applications/TOSESB-7.1.1/studio/workspace/files/schema/SFCC/CMP_price.xml" dataPackage="_-96OhCkrEemJSI61fHaYjA" fileContent="3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D225554462D38223F3E0A3C7072696365626F6F6B7320786D6C6E733D22687474703A2F2F7777772E64656D616E64776172652E636F6D2F786D6C2F696D7065782F7072696365626F6F6B2F323030362D31302D3331223E0A202020203C7072696365626F6F6B3E0A20202020202020203C686561646572207072696365626F6F6B2D69643D226575722D6D2D6C6973742D707269636573223E0A2020202020202020202020203C63757272656E63793E4555523C2F63757272656E63793E0A2020202020202020202020203C6F6E6C696E652D666C61673E747275653C2F6F6E6C696E652D666C61673E0A20202020202020203C2F6865616465723E0A20202020202020203C70726963652D7461626C65733E0A2020202020202020202020203C70726963652D7461626C652070726F647563742D69643D223030383838343330333938394D223E0A202020202020202020202020202020203C616D6F756E74207175616E746974793D2231223E35342E30303C2F616D6F756E743E0A2020202020202020202020203C2F70726963652D7461626C653E0A20202020202020203C2F70726963652D7461626C65733E0A202020203C2F7072696365626F6F6B3E0A3C2F7072696365626F6F6B733E0A" inputModel="false" name="SFCC_Price" xmi:id="_-96OcCkrEemJSI61fHaYjA">
+    <root Attribute="main" Order="1" RelatedColumn="" Type="id_String" XMLPath="/pricebooks" xmi:id="_-96OcSkrEemJSI61fHaYjA"/>
+    <root Attribute="ns" DefaultValue="http://www.demandware.com/xml/impex/pricebook/2006-10-31" Order="1" RelatedColumn="" Type="" XMLPath="" xmi:id="_-96OcikrEemJSI61fHaYjA"/>
+    <root Attribute="main" Order="2" RelatedColumn="" Type="id_String" XMLPath="/pricebooks/pricebook" xmi:id="_-96OcykrEemJSI61fHaYjA"/>
+    <root Attribute="ns" DefaultValue="http://www.demandware.com/xml/impex/pricebook/2006-10-31" Order="3" RelatedColumn="" Type="" XMLPath="" xmi:id="_-96OdCkrEemJSI61fHaYjA"/>
+    <root Attribute="branch" Order="4" RelatedColumn="" Type="id_String" XMLPath="/pricebooks/pricebook/header" xmi:id="_-96OdSkrEemJSI61fHaYjA"/>
+    <root Attribute="attri" Order="5" RelatedColumn="pricebook_id" Type="id_String" XMLPath="pricebook-id" xmi:id="_-96OdikrEemJSI61fHaYjA"/>
+    <root Attribute="ns" DefaultValue="http://www.demandware.com/xml/impex/pricebook/2006-10-31" Order="6" RelatedColumn="" Type="" XMLPath="" xmi:id="_-96OdykrEemJSI61fHaYjA"/>
+    <root Attribute="branch" Order="7" RelatedColumn="currency" Type="id_String" XMLPath="/pricebooks/pricebook/header/currency" xmi:id="_-96OeCkrEemJSI61fHaYjA"/>
+    <root Attribute="ns" DefaultValue="http://www.demandware.com/xml/impex/pricebook/2006-10-31" Order="8" RelatedColumn="" Type="" XMLPath="" xmi:id="_-96OeSkrEemJSI61fHaYjA"/>
+    <root Attribute="branch" Order="9" RelatedColumn="online_flag" Type="id_Boolean" XMLPath="/pricebooks/pricebook/header/online-flag" xmi:id="_-96OeikrEemJSI61fHaYjA"/>
+    <root Attribute="ns" DefaultValue="http://www.demandware.com/xml/impex/pricebook/2006-10-31" Order="10" RelatedColumn="" Type="" XMLPath="" xmi:id="_-96OeykrEemJSI61fHaYjA"/>
+    <root Attribute="main" Order="11" RelatedColumn="" Type="id_String" XMLPath="/pricebooks/pricebook/price-tables" xmi:id="_-96OfCkrEemJSI61fHaYjA"/>
+    <root Attribute="ns" DefaultValue="http://www.demandware.com/xml/impex/pricebook/2006-10-31" Order="12" RelatedColumn="" Type="" XMLPath="" xmi:id="_-96OfSkrEemJSI61fHaYjA"/>
+    <loop Attribute="main" Order="13" RelatedColumn="" Type="id_String" XMLPath="/pricebooks/pricebook/price-tables/price-table" xmi:id="_-96OfikrEemJSI61fHaYjA"/>
+    <loop Attribute="attri" Order="14" RelatedColumn="product_id" Type="id_String" XMLPath="product-id" xmi:id="_-96OfykrEemJSI61fHaYjA"/>
+    <loop Attribute="ns" DefaultValue="http://www.demandware.com/xml/impex/pricebook/2006-10-31" Order="15" RelatedColumn="" Type="" XMLPath="" xmi:id="_-96OgCkrEemJSI61fHaYjA"/>
+    <loop Attribute="branch" Order="16" RelatedColumn="amount" Type="id_BigDecimal" XMLPath="/pricebooks/pricebook/price-tables/price-table/amount" xmi:id="_-96OgSkrEemJSI61fHaYjA"/>
+    <loop Attribute="attri" Order="17" RelatedColumn="quantity" Type="id_Integer" XMLPath="quantity" xmi:id="_-96OgikrEemJSI61fHaYjA"/>
+    <loop Attribute="ns" DefaultValue="http://www.demandware.com/xml/impex/pricebook/2006-10-31" Order="18" RelatedColumn="" Type="" XMLPath="" xmi:id="_-96OgykrEemJSI61fHaYjA"/>
+  </TalendMetadata:XmlFileConnection>
+  <orgomg.cwm.resource.record:RecordFile dataManager="_-96OcCkrEemJSI61fHaYjA" name="default" xmi:id="_-96OhCkrEemJSI61fHaYjA">
+    <ownedElement id="_RP_UICkrEemJSI61fHaYjA" label="metadata" xmi:id="_-96OhSkrEemJSI61fHaYjA" xsi:type="TalendMetadata:MetadataTable">
+      <feature label="pricebook_id" length="25" name="pricebook-id" nullable="false" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_-96OhikrEemJSI61fHaYjA" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="currency" length="3" name="currency" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_-96OhykrEemJSI61fHaYjA" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="online_flag" length="5" name="online-flag" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_Boolean" xmi:id="_-96OiCkrEemJSI61fHaYjA" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="product_id" length="19" name="product-id" nullable="false" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_-96OiSkrEemJSI61fHaYjA" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="quantity" length="1" name="quantity" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_Integer" xmi:id="_-96OiikrEemJSI61fHaYjA" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="amount" length="11" name="amount" nullable="false" precision="2" talendType="id_BigDecimal" xmi:id="_-96OiykrEemJSI61fHaYjA" xsi:type="TalendMetadata:MetadataColumn"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_be8e1010-3ff2-4ca7-ba52-55228177f059"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>jA3JqnHNNvcAtCT4cFbOKqcc1JIJnKKvJvT4IRFalF9+2IGSAqqQIRlpvSj6MW/EOcZMy+W2Aspw
+khxTEWTENQ==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_93da7a5f-384f-4092-a03f-85dfadd902b4"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>43Rmd7FHNrahGnT2A+Ty9wtak8DDLsOIN7cM6z4JsaEWHtEv3Ptaq/ABXEEjeVVB1vsvq8P12ENv
+FSfheo7sRQ==</DigestValue></Reference></SignedInfo><SignatureValue>R9OdmZveJSk+IVh9p/rGqMjV1YxQbyUTOx8+EaX40J49o3yBMtX9ftuqTB2Cc4cngpnqP29O3Pz5
+5p8TYTpBYogFZTHC50VEHUu8qsEFZ/pRQsnFRZM2OO03Hcj4sb1nPY6zUP6sUB/BDqCS27pWm1Jq
+UMz1DvJIXM2w9OJSYBB8/0ckLGXgK5j9n2oJQAT+Slzr4AFUrlqjo3mE3fShJWhpGEd4ioEofj73
+2jYhegiFJzlDMP/wNEqBYAEzVTbHnLo87DWVnswiyZBaGuZoO9BnyOJRm1ZGj+XoA66/3qd79DzH
+QZunLo3JL6kGKf/a5FHszJ0VcgbRwqTvy1LXkA==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_93da7a5f-384f-4092-a03f-85dfadd902b4" Target="#_be8e1010-3ff2-4ca7-ba52-55228177f059"><Timestamp>2021-05-01 00:23:02</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>

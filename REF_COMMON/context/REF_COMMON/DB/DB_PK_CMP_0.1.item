@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:version="2.0">
+  <talendfile:ContextType confirmationNeeded="false" name="Default" xmi:id="_YLLnUKoTEeuyysC_1odaNA">
+    <contextParameter comment="" name="DB_CMP_PORT" prompt="DB_CMP_PORT?" promptNeeded="false" type="id_Integer" value="3306" xmi:id="_YLLnUaoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="DB_CMP_HOST" prompt="DB_CMP_HOST?" promptNeeded="false" type="id_String" value="localhost" xmi:id="_YLLnUqoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="DB_CMP_LOGIN" prompt="DB_CMP_LOGIN?" promptNeeded="false" type="id_String" value="pk_talend" xmi:id="_YLLnU6oTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="DB_CMP_PASSWORD" prompt="DB_CMP_PASSWORD?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:OO36ZRnDYyVJtBxgiNZIaDpAOqge9iqWW0msaIkbSbS9ojTWxl8=" xmi:id="_YLLnVKoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="DB_CMP_DATABASE" prompt="DB_CMP_DATABASE?" promptNeeded="false" type="id_String" value="pk_talend" xmi:id="_YLLnVaoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="DB_CMP_ADD_PARAM" prompt="DB_CMP_ADD_PARAM?" promptNeeded="false" type="id_String" value="serverTimezone=UTC&amp;noDatetimeStringSync=true&amp;useSSL=false" xmi:id="_YLLnVqoTEeuyysC_1odaNA"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="RECETTE" xmi:id="_YLLnV6oTEeuyysC_1odaNA">
+    <contextParameter comment="" name="DB_CMP_PORT" prompt="DB_CMP_PORT?" promptNeeded="false" type="id_Integer" value="3306" xmi:id="_YLLnWKoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="DB_CMP_HOST" prompt="DB_CMP_HOST?" promptNeeded="false" type="id_String" value="localhost" xmi:id="_YLLnWaoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="DB_CMP_LOGIN" prompt="DB_CMP_LOGIN?" promptNeeded="false" type="id_String" value="pk_talend" xmi:id="_YLLnWqoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="DB_CMP_PASSWORD" prompt="DB_CMP_PASSWORD?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:V65ZmdFn7HmJZGSiYQ0s8kKdr3NDINa2mcLR/aKsUH1iAfzvc8Y=" xmi:id="_YLLnW6oTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="DB_CMP_DATABASE" prompt="DB_CMP_DATABASE?" promptNeeded="false" type="id_String" value="pk_talend" xmi:id="_YLLnXKoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="DB_CMP_ADD_PARAM" prompt="DB_CMP_ADD_PARAM?" promptNeeded="false" type="id_String" value="serverTimezone=UTC&amp;noDatetimeStringSync=true&amp;useSSL=false" xmi:id="_YLLnXaoTEeuyysC_1odaNA"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="PRODUCTION" xmi:id="_YLLnXqoTEeuyysC_1odaNA">
+    <contextParameter comment="" name="DB_CMP_PORT" prompt="DB_CMP_PORT?" promptNeeded="false" type="id_Integer" value="3306" xmi:id="_YLLnX6oTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="DB_CMP_HOST" prompt="DB_CMP_HOST?" promptNeeded="false" type="id_String" value="localhost" xmi:id="_YLLnYKoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="DB_CMP_LOGIN" prompt="DB_CMP_LOGIN?" promptNeeded="false" type="id_String" value="pk_talend" xmi:id="_YLLnYaoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="DB_CMP_PASSWORD" prompt="DB_CMP_PASSWORD?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:MAACPGsdgH4I9UUNIIYylf1UBOHlMCmIliL6NW+r6n1yj22lTpo=" xmi:id="_YLLnYqoTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="DB_CMP_DATABASE" prompt="DB_CMP_DATABASE?" promptNeeded="false" type="id_String" value="pk_talend" xmi:id="_YLLnY6oTEeuyysC_1odaNA"/>
+    <contextParameter comment="" name="DB_CMP_ADD_PARAM" prompt="DB_CMP_ADD_PARAM?" promptNeeded="false" type="id_String" value="serverTimezone=UTC&amp;noDatetimeStringSync=true&amp;useSSL=false" xmi:id="_YLLnZKoTEeuyysC_1odaNA"/>
+  </talendfile:ContextType>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_9b00de2b-ff17-4751-92cd-44e4d8a13293"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>sdqKY4mfsXJZFxRx5fuISUAsxPVTEwrlExt6qSahhLqWVYVENx/Pj/WbxishLDAiaGsT/JczuB1H
+YismFVKnfQ==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_cdb458e3-336f-49ad-b04e-04f9872b1d1d"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>cl1UTA/OOAlOq71i4Wde18KIzkzVUoySdsFU/XUvtX5qy/XnWhsQJzwhCEEF3ihXbCn438VEIFiU
+z8+2vFmQNg==</DigestValue></Reference></SignedInfo><SignatureValue>ItJ2iyF45laFjEJZ2BTtdKF59FIQJTsVU00UraxoO0ytaVkj44d26tPKWLBeMWqGmnytN7aSC71w
+woStnSTPRUOSD7LyJsFI98+T5GhnC1tHgWf4Ift+jgJ4MYr+hLlTFG4pbZHMWi0+NvQoeGkYFc8h
+SfYplTcp+i7fIibGIBUXkZo9US8kh2/ovli0r9PZj5MSvKHevn2uK3DFqP+hH8vEWPIwLNzc4Taw
+gERsbwKR04GDQx4ZAlMrUBwtfw93GUMBg9miXc7/xbQJw19Jo7/Hj/wngq86YlSnqcExGtIcLdmf
+WtxKHPiSYXSAINV8Sm8ZvX/PYOc/9aKx5DRT1w==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_cdb458e3-336f-49ad-b04e-04f9872b1d1d" Target="#_9b00de2b-ff17-4751-92cd-44e4d8a13293"><Timestamp>2021-05-01 00:22:57</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>

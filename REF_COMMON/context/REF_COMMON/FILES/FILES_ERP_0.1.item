@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:version="2.0">
+  <talendfile:ContextType confirmationNeeded="false" name="Default" xmi:id="_YTjgMKoTEeuyysC_1odaNA">
+    <contextParameter comment="INV_PK" name="FILE_ERP_STOCK" prompt="FILE_ERP_STOCK?" promptNeeded="false" type="id_String" value="INV_PK" xmi:id="_YTjgMaoTEeuyysC_1odaNA"/>
+    <contextParameter comment="PLI_PK" name="FILE_ERP_PRICE" prompt="FILE_ERP_PRICE?" promptNeeded="false" type="id_String" value="PLI_PK" xmi:id="_YTjgMqoTEeuyysC_1odaNA"/>
+    <contextParameter comment="ITM_PK" name="FILE_ERP_ARTICLE" prompt="FILE_ERP_ARTICLE?" promptNeeded="false" type="id_String" value="ITM_PK" xmi:id="_YTjgM6oTEeuyysC_1odaNA"/>
+    <contextParameter comment="ZESHOP_CMD" name="FILE_ERP_ORDER" prompt="FILE_ERP_ORDER?" promptNeeded="false" type="id_String" value="ZESHOP_CMD" xmi:id="_YTjgNKoTEeuyysC_1odaNA"/>
+    <contextParameter comment="SOR_PK" name="FILE_ERP_ORDER_STATUS" prompt="FILE_ERP_ORDER_STATUS?" promptNeeded="false" type="id_String" value="SOR_PK" xmi:id="_YTjgNaoTEeuyysC_1odaNA"/>
+    <contextParameter comment="ZESHOP_RMA" name="FILE_ERP_ORDER_RMA" prompt="FILE_ERP_ORDER_RMA?" promptNeeded="false" type="id_String" value="ZESHOP_RMA" xmi:id="_YTjgNqoTEeuyysC_1odaNA"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="DEV" xmi:id="_YTjgN6oTEeuyysC_1odaNA">
+    <contextParameter comment="INV_PK" name="FILE_ERP_STOCK" prompt="FILE_ERP_STOCK?" promptNeeded="false" type="id_String" value="INV_PK" xmi:id="_YTjgOKoTEeuyysC_1odaNA"/>
+    <contextParameter comment="PLI_PK" name="FILE_ERP_PRICE" prompt="FILE_ERP_PRICE?" promptNeeded="false" type="id_String" value="PLI_PK" xmi:id="_YTjgOaoTEeuyysC_1odaNA"/>
+    <contextParameter comment="ITM_PK" name="FILE_ERP_ARTICLE" prompt="FILE_ERP_ARTICLE?" promptNeeded="false" type="id_String" value="ITM_PK" xmi:id="_YTjgOqoTEeuyysC_1odaNA"/>
+    <contextParameter comment="ZESHOP_CMD" name="FILE_ERP_ORDER" prompt="FILE_ERP_ORDER?" promptNeeded="false" type="id_String" value="ZESHOP_CMD" xmi:id="_YTjgO6oTEeuyysC_1odaNA"/>
+    <contextParameter comment="SOR_PK" name="FILE_ERP_ORDER_STATUS" prompt="FILE_ERP_ORDER_STATUS?" promptNeeded="false" type="id_String" value="SOR_PK" xmi:id="_YTjgPKoTEeuyysC_1odaNA"/>
+    <contextParameter comment="ZESHOP_RMA" name="FILE_ERP_ORDER_RMA" prompt="FILE_ERP_ORDER_RMA?" promptNeeded="false" type="id_String" value="ZESHOP_RMA" xmi:id="_YTjgPaoTEeuyysC_1odaNA"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="PROD" xmi:id="_YTjgPqoTEeuyysC_1odaNA">
+    <contextParameter comment="INV_PK" name="FILE_ERP_STOCK" prompt="FILE_ERP_STOCK?" promptNeeded="false" type="id_String" value="INV_PK" xmi:id="_YTjgP6oTEeuyysC_1odaNA"/>
+    <contextParameter comment="PLI_PK" name="FILE_ERP_PRICE" prompt="FILE_ERP_PRICE?" promptNeeded="false" type="id_String" value="PLI_PK" xmi:id="_YTjgQKoTEeuyysC_1odaNA"/>
+    <contextParameter comment="ITM_PK" name="FILE_ERP_ARTICLE" prompt="FILE_ERP_ARTICLE?" promptNeeded="false" type="id_String" value="ITM_PK" xmi:id="_YTjgQaoTEeuyysC_1odaNA"/>
+    <contextParameter comment="ZESHOP_CMD" name="FILE_ERP_ORDER" prompt="FILE_ERP_ORDER?" promptNeeded="false" type="id_String" value="ZESHOP_CMD" xmi:id="_YTjgQqoTEeuyysC_1odaNA"/>
+    <contextParameter comment="SOR_PK" name="FILE_ERP_ORDER_STATUS" prompt="FILE_ERP_ORDER_STATUS?" promptNeeded="false" type="id_String" value="SOR_PK" xmi:id="_YTjgQ6oTEeuyysC_1odaNA"/>
+    <contextParameter comment="ZESHOP_RMA" name="FILE_ERP_ORDER_RMA" prompt="FILE_ERP_ORDER_RMA?" promptNeeded="false" type="id_String" value="ZESHOP_RMA" xmi:id="_YTjgRKoTEeuyysC_1odaNA"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="PRODUCTION" xmi:id="_YTjgRaoTEeuyysC_1odaNA">
+    <contextParameter comment="INV_PK" name="FILE_ERP_STOCK" prompt="FILE_ERP_STOCK?" promptNeeded="false" type="id_String" value="INV_PK" xmi:id="_YTjgRqoTEeuyysC_1odaNA"/>
+    <contextParameter comment="PLI_PK" name="FILE_ERP_PRICE" prompt="FILE_ERP_PRICE?" promptNeeded="false" type="id_String" value="PLI_PK" xmi:id="_YTjgR6oTEeuyysC_1odaNA"/>
+    <contextParameter comment="ITM_PK" name="FILE_ERP_ARTICLE" prompt="FILE_ERP_ARTICLE?" promptNeeded="false" type="id_String" value="ITM_PK" xmi:id="_YTjgSKoTEeuyysC_1odaNA"/>
+    <contextParameter comment="ZESHOP_CMD" name="FILE_ERP_ORDER" prompt="FILE_ERP_ORDER?" promptNeeded="false" type="id_String" value="ZESHOP_CMD" xmi:id="_YTjgSaoTEeuyysC_1odaNA"/>
+    <contextParameter comment="SOR_PK" name="FILE_ERP_ORDER_STATUS" prompt="FILE_ERP_ORDER_STATUS?" promptNeeded="false" type="id_String" value="SOR_PK" xmi:id="_YTjgSqoTEeuyysC_1odaNA"/>
+    <contextParameter comment="ZESHOP_RMA" name="FILE_ERP_ORDER_RMA" prompt="FILE_ERP_ORDER_RMA?" promptNeeded="false" type="id_String" value="ZESHOP_RMA" xmi:id="_YTjgS6oTEeuyysC_1odaNA"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="RECETTE" xmi:id="_YTjgTKoTEeuyysC_1odaNA">
+    <contextParameter comment="INV_PK" name="FILE_ERP_STOCK" prompt="FILE_ERP_STOCK?" promptNeeded="false" type="id_String" value="INV_PK" xmi:id="_YTjgTaoTEeuyysC_1odaNA"/>
+    <contextParameter comment="PLI_PK" name="FILE_ERP_PRICE" prompt="FILE_ERP_PRICE?" promptNeeded="false" type="id_String" value="PLI_PK" xmi:id="_YTjgTqoTEeuyysC_1odaNA"/>
+    <contextParameter comment="ITM_PK" name="FILE_ERP_ARTICLE" prompt="FILE_ERP_ARTICLE?" promptNeeded="false" type="id_String" value="ITM_PK" xmi:id="_YTjgT6oTEeuyysC_1odaNA"/>
+    <contextParameter comment="ZESHOP_CMD" name="FILE_ERP_ORDER" prompt="FILE_ERP_ORDER?" promptNeeded="false" type="id_String" value="ZESHOP_CMD" xmi:id="_YTjgUKoTEeuyysC_1odaNA"/>
+    <contextParameter comment="SOR_PK" name="FILE_ERP_ORDER_STATUS" prompt="FILE_ERP_ORDER_STATUS?" promptNeeded="false" type="id_String" value="SOR_PK" xmi:id="_YTjgUaoTEeuyysC_1odaNA"/>
+    <contextParameter comment="ZESHOP_RMA" name="FILE_ERP_ORDER_RMA" prompt="FILE_ERP_ORDER_RMA?" promptNeeded="false" type="id_String" value="ZESHOP_RMA" xmi:id="_YTjgUqoTEeuyysC_1odaNA"/>
+  </talendfile:ContextType>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_ee0efc30-befc-4715-b93f-d7f631d2f9c0"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>/5Yk3eUrbchbYIx5aqVIfBsQvuKrezanLRC8zRfa6eUYTcYQnqGm76s3LwPBMmlq75YBSWmGD28P
+nunAZj/zxg==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_13c02e19-91ba-40ab-b7f6-581476597437"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>FgZTythEuilkZcQZ+4qkZq0QOtU2sE2zT1TfTQKfYHmSQxetj4acyyJu0SBw5I5/R+agTbfedLyj
+EwKheJJGbg==</DigestValue></Reference></SignedInfo><SignatureValue>ILoL1rG2E17JGndLlN7RHj0SlVmOmwQQ+G2De5oyaWD5ZqI4fAtpXfPWt3xj6jv6YlOSb52oAW3T
+V1PogGW5jB50EfVcOHrtS88dy4dGNw4TJOKycFFZxJl2nE8LkIvOXWfyTdmHMVoEBwouqubdWKUP
+ISK7xiAMrhWxXJ9mjkMUnswTj25e7IV6BkqfvhMtElREKzmRNAyRtW13lpW0Me3sfiTwWgPCWZy7
+H50c8zMqTuqK9SdME4L0vsJOJX2H0ZV3NycA3o3O+KvnIsokchNr5wtYTjfsBU+mk1ravbjTCHar
+mBaYVKxYNNiGDKeljiBBzVS+2uPzomq/dhTb7g==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_13c02e19-91ba-40ab-b7f6-581476597437" Target="#_ee0efc30-befc-4715-b93f-d7f631d2f9c0"><Timestamp>2021-05-01 00:22:57</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>
